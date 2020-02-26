@@ -62,8 +62,8 @@ import android.util.Log;
 import android.content.pm.PackageManager; //custom
 import android.content.pm.PackageManager.NameNotFoundException; //custom
 import android.content.pm.PermissionInfo; //custom
-import android.support.v4.content.ContextCompat; //custom
-import android.support.v4.app.ActivityCompat; //custom
+//import android.support.v4.content.ContextCompat; //custom
+//import android.support.v4.app.ActivityCompat; //custom
 
 /**
  * This class launches the camera view, allows the user to take a picture, closes the camera view,
